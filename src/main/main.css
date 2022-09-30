@@ -1,0 +1,10 @@
+
+.header{
+    color: black;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
